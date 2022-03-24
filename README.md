@@ -1,2 +1,1 @@
-# newsite
-cv
+TinDog Starting Files
